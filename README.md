@@ -1,5 +1,7 @@
 ### Hello Github 👋
 
+🌱 This is My playground! Feel free to enjoy here 😄 -> [Go To Notion](https://www.notion.so/minzoovv/Minzoovv-7dd269d3fd3d4dd49846239844c48cb9)
+
 <!--
 **minzoovv/minzoovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
